@@ -1,0 +1,30 @@
+advil
+24 23/5/2019
+advil liqui-gels
+12 2/12/2020
+advil migrain
+100 4/6/2017
+tylenol
+150 9/8/2016
+tylenol pm
+15 7/10/2021
+tylenol extra strength
+210 19/11/2019
+tylenol cold
+50 27/2/2018
+tylenol cold & flu
+45 13/12/2022
+abilify
+30 29/12/2021
+crestor
+70 5/5/2023
+januvia
+20 24/10/2018
+avastin
+18 2/1/2016
+advil liqui-gels
+12 2/12/2022
+tylenol
+150 9/8/2019
+januvia
+20 24/10/2020
